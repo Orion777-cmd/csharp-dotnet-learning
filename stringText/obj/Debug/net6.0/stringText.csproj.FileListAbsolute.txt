@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\bin\Debug\net6.0\stringText.exe
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\bin\Debug\net6.0\stringText.deps.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\bin\Debug\net6.0\stringText.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\bin\Debug\net6.0\stringText.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\bin\Debug\net6.0\stringText.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\obj\Debug\net6.0\stringText.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\obj\Debug\net6.0\stringText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\obj\Debug\net6.0\stringText.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\obj\Debug\net6.0\stringText.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\obj\Debug\net6.0\stringText.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\obj\Debug\net6.0\stringText.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\obj\Debug\net6.0\refint\stringText.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\obj\Debug\net6.0\stringText.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\obj\Debug\net6.0\stringText.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\stringText\obj\Debug\net6.0\ref\stringText.dll
