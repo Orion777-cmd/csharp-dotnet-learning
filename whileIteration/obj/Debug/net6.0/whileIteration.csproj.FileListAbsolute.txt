@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\obj\Debug\net6.0\whileIteration.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\obj\Debug\net6.0\whileIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\obj\Debug\net6.0\whileIteration.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\obj\Debug\net6.0\whileIteration.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\obj\Debug\net6.0\whileIteration.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\bin\Debug\net6.0\whileIteration.exe
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\bin\Debug\net6.0\whileIteration.deps.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\bin\Debug\net6.0\whileIteration.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\bin\Debug\net6.0\whileIteration.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\bin\Debug\net6.0\whileIteration.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\obj\Debug\net6.0\whileIteration.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\obj\Debug\net6.0\refint\whileIteration.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\obj\Debug\net6.0\whileIteration.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\obj\Debug\net6.0\whileIteration.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\whileIteration\obj\Debug\net6.0\ref\whileIteration.dll
