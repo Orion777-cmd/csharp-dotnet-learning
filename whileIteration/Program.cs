@@ -51,6 +51,7 @@ namespace whileIteration
     }  
 
     private static void guessingGame(){
+        Console.Clear();
         Console.WriteLine("Guessing Game");
         Random myRandom = new Random();
         int randomNumber = myRandom.Next(1,11);

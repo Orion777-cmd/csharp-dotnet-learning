@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\bin\Debug\net6.0\DatesAndTimes.exe
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\bin\Debug\net6.0\DatesAndTimes.deps.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\bin\Debug\net6.0\DatesAndTimes.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\bin\Debug\net6.0\DatesAndTimes.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\bin\Debug\net6.0\DatesAndTimes.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\obj\Debug\net6.0\refint\DatesAndTimes.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\obj\Debug\net6.0\DatesAndTimes.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\DatesAndTimes\obj\Debug\net6.0\ref\DatesAndTimes.dll
