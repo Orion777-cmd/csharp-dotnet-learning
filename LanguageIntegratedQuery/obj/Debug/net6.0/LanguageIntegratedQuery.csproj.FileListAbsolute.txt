@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\obj\Debug\net6.0\LanguageIntegratedQuery.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\obj\Debug\net6.0\LanguageIntegratedQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\obj\Debug\net6.0\LanguageIntegratedQuery.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\obj\Debug\net6.0\LanguageIntegratedQuery.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\obj\Debug\net6.0\LanguageIntegratedQuery.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\bin\Debug\net6.0\LanguageIntegratedQuery.exe
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\bin\Debug\net6.0\LanguageIntegratedQuery.deps.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\bin\Debug\net6.0\LanguageIntegratedQuery.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\bin\Debug\net6.0\LanguageIntegratedQuery.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\bin\Debug\net6.0\LanguageIntegratedQuery.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\obj\Debug\net6.0\LanguageIntegratedQuery.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\obj\Debug\net6.0\refint\LanguageIntegratedQuery.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\obj\Debug\net6.0\LanguageIntegratedQuery.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\obj\Debug\net6.0\LanguageIntegratedQuery.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\LanguageIntegratedQuery\obj\Debug\net6.0\ref\LanguageIntegratedQuery.dll
