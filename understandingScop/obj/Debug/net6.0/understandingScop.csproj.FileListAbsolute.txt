@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\obj\Debug\net6.0\understandingScop.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\obj\Debug\net6.0\understandingScop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\obj\Debug\net6.0\understandingScop.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\obj\Debug\net6.0\understandingScop.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\obj\Debug\net6.0\understandingScop.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\bin\Debug\net6.0\understandingScop.exe
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\bin\Debug\net6.0\understandingScop.deps.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\bin\Debug\net6.0\understandingScop.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\bin\Debug\net6.0\understandingScop.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\bin\Debug\net6.0\understandingScop.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\obj\Debug\net6.0\understandingScop.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\obj\Debug\net6.0\refint\understandingScop.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\obj\Debug\net6.0\understandingScop.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\obj\Debug\net6.0\understandingScop.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\understandingScop\obj\Debug\net6.0\ref\understandingScop.dll
