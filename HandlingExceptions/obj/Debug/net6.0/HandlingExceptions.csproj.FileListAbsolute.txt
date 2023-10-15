@@ -1,0 +1,5 @@
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.CoreCompileInputs.cache

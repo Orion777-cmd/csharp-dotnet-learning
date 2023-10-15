@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.IO;
+using System.Timer;
 
 
 namespace HandlingExceptions
@@ -36,6 +37,22 @@ namespace HandlingExceptions
                 Console.WriteLine("Closing application now...");
             }
 
+            // Timer myTimer = new Timer(3000);
+            // myTimer.Elapsed += MyTimer_Elapsed;
+            // myTimer.Start();
+
+            // Console.WriteLine("Press enter to remove the red text");
+            // Console.ReadLine();
+            // myTimer.Stop();
+            // Console.ReadLine();
+
+
         }
+
+        // private static void MyTimer_Elapsed(object sender, ElapsedEventArgs e)
+        // {
+        //     Console.ForegroundColor = ConsoleColor.Red;
+        //     Console.WriteLine("Elapsed: {0:HH:mm:ss.fff}", e.SignalTime);
+        // }
     }
 }
