@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\bin\Debug\net6.0\EnumsAndSwitch.exe
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\bin\Debug\net6.0\EnumsAndSwitch.deps.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\bin\Debug\net6.0\EnumsAndSwitch.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\bin\Debug\net6.0\EnumsAndSwitch.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\bin\Debug\net6.0\EnumsAndSwitch.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\obj\Debug\net6.0\refint\EnumsAndSwitch.dll
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.pdb
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\obj\Debug\net6.0\EnumsAndSwitch.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\file\csharp-dotnet\csharp-dotnet-learning\EnumsAndSwitch\obj\Debug\net6.0\ref\EnumsAndSwitch.dll
